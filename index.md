@@ -20,6 +20,9 @@ This is a webpage of friends from Cordial High School, Bengaluru, India.
 > We joined the school and stayed there until 1998.
 > This website captures all our childhood memories and the memories we are trying to make now.
 >
+### Large image
+
+![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 ### Header 3
 
