@@ -14,11 +14,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 This is a webpage of friends from Cordial High School, Bengaluru, India.
 
-## Header 2
+## Cordial High School
 
-> This is a blockquote following a header.
+> Cordial School in the year 1982 in Vijayanagar West.
+> We joined the school and stayed there until 1998.
+> This website captures all our childhood memories and the memories we are trying to make now.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
