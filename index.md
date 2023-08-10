@@ -1,21 +1,11 @@
 ---
 layout: default
 ---
-
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
+<img src="images/thumbnail.png" style="width:640px; height:320px; object-fit: cover;">
 # CORDIAL 98
-
 This is a webpage of friends from Cordial High School, Bengaluru, India.
 
 ## Cordial High School
-
 > Cordial School in the year 1982 in Vijayanagar West.
 > We joined the school and stayed there until 1998.
 > This website captures all our childhood memories and the memories we are trying to make now.
@@ -23,6 +13,8 @@ This is a webpage of friends from Cordial High School, Bengaluru, India.
 ### Large image
 
 ![Branching](https://guides.github.com/activities/hello-world/branching.png)
+
+[Link to another page](./another-page.html).
 
 ### Header 3
 
