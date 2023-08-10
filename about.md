@@ -1,3 +1,9 @@
+---
+layout: default
+---
+
+> !<img src="images/Untitled.JPEG">
+
 ### Cordial High School
 >Cordial School in the year 1982 in Vijayanagar West.
 > [Cordial High School] (http://cordialhighschool.in/)
