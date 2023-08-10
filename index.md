@@ -10,7 +10,7 @@ Welcome to the webpage of friends from Cordial High School, Bengaluru, India.
 > We joined the school and stayed there until 1998.
 > This website captures all our childhood memories and the memories will keep making for life.
 >
-!img src="images/IMG_20160514_180004.JPG" style="width:320px; height:640px; object-fit: cover;"
+!<img src="images/IMG_20160514_180004.JPG">
 > [Cordial School](https://cordialhighschool.in/)
 
 ### Header 3
