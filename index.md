@@ -11,7 +11,7 @@ Welcome to the webpage of friends from Cordial High School, Bengaluru, India.
 > This website captures all our childhood memories and the memories will keep making for life.
 >
 !<img src="images/IMG_20160514_180004.JPG">
-> [Cordial School](https://cordialhighschool.in/)
+> [Cordial School](http://cordialhighschool.in/)
 
 ### Header 3
 
