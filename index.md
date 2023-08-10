@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 <img src="images/thumbnail.png"; object-fit: cover;">
 
 # CORDIAL 98
