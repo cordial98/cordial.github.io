@@ -8,13 +8,10 @@ Welcome to the webpage of friends from Cordial High School, Bengaluru, India.
 ## Cordial High School
 > Cordial School in the year 1982 in Vijayanagar West.
 > We joined the school and stayed there until 1998.
-> This website captures all our childhood memories and the memories we are trying to make now.
+> This website captures all our childhood memories and the memories will keep making for life.
 >
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-[Link to another page](./another-page.html).
+<img src="images/IMG_20160514_180004.JPG" style="width:320px; height:640px; object-fit: cover;">
+[Cordial School](https://cordialhighschool.in/)
 
 ### Header 3
 
