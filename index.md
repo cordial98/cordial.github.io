@@ -3,7 +3,7 @@ layout: default
 ---
 <img src="images/thumbnail.png" style="width:640px; height:320px; object-fit: cover;">
 # CORDIAL 98
-This is a webpage of friends from Cordial High School, Bengaluru, India.
+Welcome to the webpage of friends from Cordial High School, Bengaluru, India.
 
 ## Cordial High School
 > Cordial School in the year 1982 in Vijayanagar West.
