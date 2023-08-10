@@ -1,7 +1,5 @@
----
-layout: default
----
-<img src="images/thumbnail.png" style="width:640px; height:320px; object-fit: cover;">
+<img src="images/thumbnail.png"; object-fit: cover;">
+
 # CORDIAL 98
 Welcome to the webpage of friends from Cordial High School, Bengaluru, India.
 
