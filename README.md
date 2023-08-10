@@ -2,9 +2,9 @@
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/cayman/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-cayman.svg)](https://badge.fury.io/rb/jekyll-theme-cayman)
 
-*A webpage of friends from Cordial High School, Bengaluru, India. You can [preview the theme to see what it looks like](http://pages-themes.github.io/cayman), or even [use it today](#usage).*
+*A webpage of friends from Cordial High School, Bengaluru, India.*
 
-![Thumbnail of Cayman](thumbnail.png)
+![Thumbnail of Cordial](thumbnail.png)
 
 ## Usage
 
@@ -34,14 +34,6 @@ Cayman will respect the following variables, if set in your site's `_config.yml`
 title: [The title of your site]
 description: [A short description of your site's purpose]
 ```
-
-Additionally, you may choose to set the following optional variables:
-
-```yml
-show_downloads: ["true" or "false" (unquoted) to indicate whether to provide a download URL]
-google_analytics: [Your Google Analytics tracking ID]
-```
-
 ### Stylesheet
 
 If you'd like to add your own custom styles:
@@ -68,10 +60,6 @@ If you'd like to change the theme's HTML layout:
 4. Paste the default layout content copied in the first step
 5. Customize the layout as you'd like
 
-### Customizing Google Analytics code
-
-Google has released several iterations to their Google Analytics code over the years since this theme was first created. If you would like to take advantage of the latest code, paste it into `_includes/head-custom-google-analytics.html` in your Jekyll site.
-
 ### Overriding GitHub-generated URLs
 
 Templates often rely on URLs supplied by GitHub such as links to your repository or links to download your project. If you'd like to override one or more default URLs:
@@ -96,10 +84,6 @@ See the [open issues](https://github.com/pages-themes/cayman/issues) for a list 
 ## Project philosophy
 
 The Cayman theme is intended to make it quick and easy for GitHub Pages users to create their first (or 100th) website. The theme should meet the vast majority of users' needs out of the box, erring on the side of simplicity rather than flexibility, and provide users the opportunity to opt-in to additional complexity if they have specific needs or wish to further customize their experience (such as adding custom CSS or modifying the default layout). It should also look great, but that goes without saying.
-
-## Contributing
-
-Interested in contributing to Cayman? We'd love your help. Cayman is an open source project, built one contribution at a time by users like you. See [the CONTRIBUTING file](docs/CONTRIBUTING.md) for instructions on how to contribute.
 
 ### Previewing the theme locally
 
